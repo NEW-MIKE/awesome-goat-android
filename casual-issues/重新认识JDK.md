@@ -11,5 +11,6 @@ IDEA 调整自身JDK：ctrl+shift+a -> Switch Boot JDK ->choose version ……
 
 换做了原生是java1.8的android studio ，
 
-
+总结：操作系统的环境变量，IDE自带的编译器版本，别人项目对于新版的不兼容，是会导致这一类问题，    
+对以后的建议：出现了问题，将问题进行立项，做到一个问题只解决一次。    
 
