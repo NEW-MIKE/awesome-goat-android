@@ -4,5 +4,8 @@ https://blog.mindorks.com/essential-guide-for-designing-your-android-app-archite
 
 有一个感觉，直接学习别人的框架，剔除掉多余的业务的代码，可以更加清晰直接。   
 
+如上的代码中的DI是依赖注入的意思。    
+
+
 
 
